@@ -1,6 +1,6 @@
 {
-  "version": "0.2.4",
-  "notes": "關閉全部潤飾選項時不再呼叫 AI；轉譯只顯示語音文字；歷史紀錄可開大視窗查看。",
+  "version": "0.2.5",
+  "notes": "可在程式內直接更新，不必刪舊版。這是最後一次需要手動安裝；之後有新版本按「立即更新」即可。",
   "url": "https://github.com/GsirGinRay/speaknote-releases/releases/latest",
-  "downloadUrl": "https://github.com/GsirGinRay/speaknote-releases/releases/download/v0.2.4/Speaknote_0.2.4_x64-setup.exe"
+  "downloadUrl": "https://github.com/GsirGinRay/speaknote-releases/releases/download/v0.2.5/Speaknote_0.2.5_x64-setup.exe"
 }
