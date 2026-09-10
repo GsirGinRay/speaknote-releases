@@ -1,6 +1,6 @@
 {
-  "version": "0.2.3",
-  "notes": "對齊清過死碼的學員版原始碼，使用方式與 0.2.2 相同。",
+  "version": "0.2.4",
+  "notes": "關閉全部潤飾選項時不再呼叫 AI；轉譯只顯示語音文字；歷史紀錄可開大視窗查看。",
   "url": "https://github.com/GsirGinRay/speaknote-releases/releases/latest",
-  "downloadUrl": "https://github.com/GsirGinRay/speaknote-releases/releases/download/v0.2.3/Speaknote_0.2.3_x64-setup.exe"
+  "downloadUrl": "https://github.com/GsirGinRay/speaknote-releases/releases/download/v0.2.4/Speaknote_0.2.4_x64-setup.exe"
 }
