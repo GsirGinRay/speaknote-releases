@@ -1,6 +1,6 @@
 {
-  "version": "0.2.7",
-  "notes": "登入畫面與主畫面可一鍵切換深色／淺色介面，並記住選擇；改善深色模式的原生表單與捲軸顯示。",
+  "version": "0.2.8",
+  "notes": "主畫面與登入畫面顯示目前執行的版本號；更新服務無法連線時明確顯示檢查失敗，避免誤報已是最新版。",
   "url": "https://github.com/GsirGinRay/speaknote-releases/releases/latest",
-  "downloadUrl": "https://github.com/GsirGinRay/speaknote-releases/releases/download/v0.2.7/Speaknote_0.2.7_x64-setup.exe"
+  "downloadUrl": "https://github.com/GsirGinRay/speaknote-releases/releases/download/v0.2.8/Speaknote_0.2.8_x64-setup.exe"
 }
