@@ -1,6 +1,6 @@
 {
-  "version": "0.2.9",
-  "notes": "改善程式內更新：確認安裝結果與版本後自動開啟新版；失敗時顯示原因與手動下載入口。舊版若更新失敗，請手動安裝本版一次。",
+  "version": "0.2.10",
+  "notes": "學員登入驗證改用新伺服器網址（舊網址將於 11 月初停用），請更新以免無法登入。",
   "url": "https://github.com/GsirGinRay/speaknote-releases/releases/latest",
-  "downloadUrl": "https://github.com/GsirGinRay/speaknote-releases/releases/download/v0.2.9/Speaknote_0.2.9_x64-setup.exe"
+  "downloadUrl": "https://github.com/GsirGinRay/speaknote-releases/releases/download/v0.2.10/Speaknote_0.2.10_x64-setup.exe"
 }
