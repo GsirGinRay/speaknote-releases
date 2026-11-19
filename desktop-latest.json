@@ -1,6 +1,6 @@
 {
-  "version": "0.2.10",
-  "notes": "學員登入驗證改用新伺服器網址（舊網址將於 11 月初停用），請更新以免無法登入。",
+  "version": "0.2.11",
+  "notes": "新增「修正常錯詞」快捷鍵（預設 Ctrl+Alt+F）。修正 Windows 11 24H2 自動更新無法完成的問題。若 0.2.10 按立即更新後無法啟動，請手動安裝一次。",
   "url": "https://github.com/GsirGinRay/speaknote-releases/releases/latest",
-  "downloadUrl": "https://github.com/GsirGinRay/speaknote-releases/releases/download/v0.2.10/Speaknote_0.2.10_x64-setup.exe"
+  "downloadUrl": "https://github.com/GsirGinRay/speaknote-releases/releases/download/v0.2.11/Speaknote_0.2.11_x64-setup.exe"
 }
